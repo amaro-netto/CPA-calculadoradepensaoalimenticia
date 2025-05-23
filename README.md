@@ -1,7 +1,7 @@
 # CPA - Cálculo de Pensão Alimentícia
 
 <div align="center">
-<img src="https://github.com/amaro-netto/dark-mode-portfolio/blob/main/public/placeholder.png" width="300">
+<img src="https://raw.githubusercontent.com/amaro-netto/imagens/7e9bf292edbdc2e3ec45998c3a76c22c4a10ebe5/CPA_LOGO_WHITE.svg" width="500">
 </div>
 
 ## Badges
