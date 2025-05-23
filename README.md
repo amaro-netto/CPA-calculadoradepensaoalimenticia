@@ -147,12 +147,6 @@ Gostaríamos de agradecer a todos que contribuem para este projeto:
 
 ---
 
-## Licença
-
-Este projeto está licenciado sob a **Licença MIT** - você pode encontrar os detalhes completos no arquivo [LICENSE](https://opensource.org/licenses/MIT). Sinta-se à vontade para usar, modificar e distribuir.
-
----
-
 ## Conclusão
 
 O **CPA - Cálculo de Pensão Alimentícia** foi desenvolvido com o propósito de **facilitar e automatizar** os complexos cálculos envolvidos em processos de pensão alimentícia. Nosso objetivo é proporcionar **economia de tempo** e **maior precisão** para profissionais e cidadãos. A aplicação está em **constante evolução** para se adaptar às necessidades dos usuários e às mudanças na legislação brasileira.
